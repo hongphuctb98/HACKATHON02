@@ -16,7 +16,7 @@
 //Bài 2
 
 // let str = " this is A tEst ";
-// let newArr = str.trim().split(" ");
+// let newArr = str.split(" ");
 // let newStr = "";
 // newArr.forEach((item) => {
 //   newStr += item.charAt(0).toUpperCase() + item.slice(1).toLowerCase() + " ";
