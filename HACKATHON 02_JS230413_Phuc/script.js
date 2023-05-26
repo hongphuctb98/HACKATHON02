@@ -16,12 +16,12 @@
 //Bài 2
 
 // let str = " this is A tEst ";
-// let newArr = str.split(" ");
-// let newStr = "";
-// newArr.forEach((item) => {
-//   newStr += item.charAt(0).toUpperCase() + item.slice(1).toLowerCase() + " ";
+// let arr = str.split(" ");
+// let result = "";
+// arr.forEach((item) => {
+//   result += item.charAt(0).toUpperCase() + item.slice(1).toLowerCase() + " ";
 // });
-// console.log(newStr);
+// console.log(result);
 
 //Bài 3
 // function validateDay(month, year) {
